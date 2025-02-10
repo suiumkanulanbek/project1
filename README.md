@@ -1,5 +1,12 @@
-***Rare Disease Treatment Is Costly—Delayed Diagnosis Makes It Even Worse***
+# Rare Disease Diagnosis Delays Analysis
 
-In this project, I aim to analyze the diagnosis delays for people with rare diseases in the US and its effects on increased costs on already so expensive medical costs.  
+## Overview
+This project focuses on analyzing treatments costs associated wit diagnosis delays for patients with rare diseases in the US. 
 
-Findings suggest that diagnosis delays can take from 4-5 years, in some cases up to 17 years. Besides ineffective treatment, such cases lead to increased costs. 
+## Data Sources
+The analysis leverages the following data sources:
+- **Data by the National Center of Biomedical Information (NCBI):** This dataset provides insights into the costs associated with various treatments and medical interventions.
+- **Independent Studies on Diagnosis Delays:** These studies provide data on the costs incurred due to delays in diagnosis for rare diseases.
+
+## Visualization
+The data was visualized using **Datawrapper**.
